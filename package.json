@@ -1,7 +1,8 @@
 {
   "license": "MIT",
   "scripts": {
-    "build": "encore dev",
+    "dev": "encore dev",
+    "build": "encore production",
     "build:prod": "encore production",
     "watch": "encore dev --watch"
   },
